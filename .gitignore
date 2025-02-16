@@ -1,1 +1,5 @@
 
+data/*.csv
+data/*.zip
+notebooks/.ipynb_checkpoints
+models/*.pkl
